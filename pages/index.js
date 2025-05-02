@@ -1,7 +1,8 @@
 function Home(){
     
     return (
-        <div style={{ backgroundColor: '#333', color: 'white', padding: '20px', textAlign: 'center' }}>
+        <div style={{ backgroundColor: '#333', color: 'white', padding: '20px', 
+                textAlign: 'center', height: '100vh', display: 'flex' }}>
           <h1 style={{ fontSize: '24px' }}>Vai Corinthians!</h1>
         </div>
       );
