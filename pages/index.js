@@ -13,6 +13,7 @@ function Home() {
       }}
     >
       <h1 style={{ fontSize: '96px' }}>
+        Oi Léo, estou com saudade de você <br />
         Vai Corinthians!
       </h1>
     </div>
