@@ -12,9 +12,7 @@ function Home() {
         justifyContent: "center", // Added for horizontal centering
       }}
     >
-      <h1 style={{ fontSize: '96px' }}>
-        Vai Corinthians!
-      </h1>
+      <h1 style={{ fontSize: "96px" }}>Vai Corinthians!</h1>
     </div>
   );
 }
