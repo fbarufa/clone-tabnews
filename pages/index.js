@@ -6,7 +6,7 @@ function Home() {
         color: "white",
         padding: "20px",
         textAlign: "center",
-        height: "80vh",
+        height: "90vh",
         display: "flex",
         alignItems: "center", // Corrected for vertical centering
         justifyContent: "center", // Added for horizontal centering
